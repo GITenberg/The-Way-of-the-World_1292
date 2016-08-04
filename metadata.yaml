@@ -1,0 +1,31 @@
+_repo: The-Way-of-the-World_1292
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Congreve, William
+    alias: Congrove, Mr. (William)
+    birthdate: 1670
+    deathdate: 1729
+    gutenberg_agent_id: '547'
+    url: http://www.gutenberg.org/2009/agents/547
+    wikipedia: http://en.wikipedia.org/wiki/William_Congreve_(playwright)
+description: A comedy of manners by William Congreve, was performed and published
+  in 1700.  The play, considered to be Congreve's masterpiece, ridicules assumptions
+  that governed the society of his time, especially those concerning love and marriage.   The
+  plot centers around the efforts of lovers Millamant and Mirabell to obtain the permission
+  of Millamant's aunt for their marriage.  Despite a scheme that goes awry and after
+  several misunderstandings are cleared up, the two finally obtain her consent.
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama (Comedy)'
+- GITenberg
+title: The Way of the World
+url: http://www.gutenberg.org/ebooks/1292
